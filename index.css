@@ -24,4 +24,8 @@ body {
 }
 .btn-primary{
 	background-color: purple;
+	border-color: white;
+}
+.btn-primary:active{
+	transform: translate(2px, 2px);
 }
